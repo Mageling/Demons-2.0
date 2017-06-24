@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demons_2._0
+namespace Demons2
 {
     class Program
     {

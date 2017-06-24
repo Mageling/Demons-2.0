@@ -7,7 +7,7 @@
     <ProjectGuid>{7DAE2FC1-9EE3-482B-B018-86C52E9F1FB3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Demons_2._0</RootNamespace>
+    <RootNamespace>Demons2</RootNamespace>
     <AssemblyName>Demons-2.0</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
